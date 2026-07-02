@@ -24,6 +24,8 @@ Weather Hub Mobile is a Flutter application that displays a clean and simple wea
 
 ## 📱 Screenshots
 
+![](screenshots/image.jpeg)
+
 ## 🚀 How to Run
 
 1. Clone the repository
